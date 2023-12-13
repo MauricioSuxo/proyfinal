@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/proyfinal/static/css/main.ed1e9016.css",
+    "main.js": "/proyfinal/static/js/main.4d024bbe.js",
+    "static/js/787.df222e76.chunk.js": "/proyfinal/static/js/787.df222e76.chunk.js",
+    "static/media/video.mp4": "/proyfinal/static/media/video.4ca40e5b8671bc3840dd.mp4",
+    "static/media/tencent.jpg": "/proyfinal/static/media/tencent.811ceb8aae1bb4f595fa.jpg",
+    "static/media/campus.jpg": "/proyfinal/static/media/campus.d0b9d5dbf3973b74c023.jpg",
+    "static/media/c1.jpg": "/proyfinal/static/media/c1.3c4b1b9c9a352d166b1a.jpg",
+    "static/media/c3.png": "/proyfinal/static/media/c3.1ad58261ec290061e3ad.png",
+    "static/media/c4.jpg": "/proyfinal/static/media/c4.14b7b93314aea246c1f3.jpg",
+    "static/media/oracle.jpg": "/proyfinal/static/media/oracle.8e9315ec93c16bb3ba49.jpg",
+    "static/media/producto.png": "/proyfinal/static/media/producto.18df10c5be01772677f4.png",
+    "static/media/c2.jpg": "/proyfinal/static/media/c2.906f69af28e170d21459.jpg",
+    "static/media/c5.jpg": "/proyfinal/static/media/c5.b6843e1dd1ee7b9f2302.jpg",
+    "static/media/ibm.jpg": "/proyfinal/static/media/ibm.698645d2128f4ef23013.jpg",
+    "static/media/baidu.jpeg": "/proyfinal/static/media/baidu.7324527bbd8316dc6764.jpeg",
+    "static/media/sap.jpg": "/proyfinal/static/media/sap.e8c753303e3a208e31bc.jpg",
+    "static/media/alpha.png": "/proyfinal/static/media/alpha.236a5e95a67eb78902b8.png",
+    "index.html": "/proyfinal/index.html",
+    "main.ed1e9016.css.map": "/proyfinal/static/css/main.ed1e9016.css.map",
+    "main.4d024bbe.js.map": "/proyfinal/static/js/main.4d024bbe.js.map",
+    "787.df222e76.chunk.js.map": "/proyfinal/static/js/787.df222e76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1e9016.css",
+    "static/js/main.4d024bbe.js"
+  ]
+}
